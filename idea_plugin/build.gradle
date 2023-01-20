@@ -20,10 +20,11 @@ plugins {
 
 repositories {
   mavenCentral()
+  mavenLocal()
 }
 
 ext {
-  googleJavaFormatVersion = "1.15.0"
+  googleJavaFormatVersion = "1.15.0-cf"
 }
 
 apply plugin: "org.jetbrains.intellij"

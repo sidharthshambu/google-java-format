@@ -26,6 +26,7 @@
   </parent>
 
   <artifactId>google-java-format</artifactId>
+  <version>1.15.0-cf</version>
 
   <name>Google Java Format</name>
 
